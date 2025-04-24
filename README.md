@@ -13,6 +13,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/iury0/iury0/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/pedroquintas12/pedroquintas12/output/snake.svg" alt="Snake animation" />
 
 ###
