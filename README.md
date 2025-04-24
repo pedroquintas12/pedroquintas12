@@ -9,10 +9,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pedroquintas12&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroquintas12&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=pedroquintas12&icon=1&color=0)](https://visitcount.itsvg.in)
+<br clear="both">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/iury0/iury0/output/snake.svg" alt="Snake animation" />
+
+###
